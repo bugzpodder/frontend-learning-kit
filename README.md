@@ -315,6 +315,7 @@ This is a curated toolkit, not a rigid curriculum. While structured in a logical
 - 🚉&nbsp;&nbsp;[Dev Challenges](https://devchallenges.io/) - Complete web developer challenges to solve
 - 🚉&nbsp;&nbsp;[ICodeThis](https://icodethis.com/) - Daily practical web development challenges
 - 🚉&nbsp;&nbsp;[Prepare Frontend](https://preparefrontend.com/) - Simulated frontend challenges aligned with top tech company bars
+- 🚉&nbsp;&nbsp;[Ebat Dev](https://www.ebat.dev/frontend/javascript/challenges) - Designed for developers to practice real frontend interview questions
 
 <br>
 
